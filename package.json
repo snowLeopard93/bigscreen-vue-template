@@ -33,6 +33,7 @@
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
+    "perfect-scrollbar": "^1.5.5",
     "resize-detector": "^0.3.0",
     "swiper": "^6.8.3",
     "underscore": "^1.13.2",
